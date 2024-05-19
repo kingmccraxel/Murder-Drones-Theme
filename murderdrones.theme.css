@@ -1,11 +1,9 @@
 /**
  * @name Murder Drones
- * @author Hawk#4872
+ * @author kingmccraxel
  * @version 1
- * @description A highly customizable theme based off of the OperaGX browser.
- * @source https://github.com/L-Ratio/OperaGXTheme
- * @invite Xn7UUQUHbN
- * @BDEditor OperaGX Theme
+ * @description none lol
+ * @orginal source used for this theme https://github.com/L-Ratio/OperaGXTheme
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Jaro:wght@100;300;400;500;700&display=swap');
@@ -61,6 +59,5 @@
   --memberlist-transparency-color: var(--dark-background-color);
 }
 
-/* Any custom CSS below here */
 
 
